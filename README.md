@@ -23,7 +23,7 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
 - 💼 any freelance work? do reach, [email](mailto:med.grich2002@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 ------
-**Languages and Tools:**  
+###Languages and Tools:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,cpp,py,mongodb,cs,unity)](https://skills.thijs.gg)
 
@@ -39,7 +39,7 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
 ------
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9r9nc1i4t1smr2uv82v41ybp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
