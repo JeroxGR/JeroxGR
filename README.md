@@ -18,7 +18,7 @@
 Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and a freelance software developer from Morocco. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <p align = "center"><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
   
 - 💼 any freelance work? do reach, [email](mailto:med.grich2002@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -29,9 +29,19 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeroxgr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+------
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JeroxGr&theme=vue-dark&border_radius=5)](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=jeroxgr&show_icons=true&theme=gotham" alt="JeroxGR" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=JeroxGr&theme=vue-dark&border_radius=5)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeroxgr&show_icons=true&theme=gotham" alt="JeroxGR" />
+
+------
+### 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
+
+
 
 
 
