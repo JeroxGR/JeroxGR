@@ -22,8 +22,10 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
   
 - 💼 any freelance work? do reach, [email](mailto:med.grich2002@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
 ------
-###Languages and Tools:
+
+### Languages and Tools:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,cpp,py,mongodb,cs,unity)](https://skills.thijs.gg)
 
