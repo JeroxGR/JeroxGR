@@ -31,8 +31,6 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
 
 ### Languages and Tools:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,cpp,py,mongodb,cs,unity)](https://skills.thijs.gg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeroxgr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
@@ -43,10 +41,6 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
 <img src="https://github-readme-stats.vercel.app/api?username=jeroxgr&show_icons=true&theme=gotham" alt="JeroxGR" />
 
 ------
-### 🎧 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9r9nc1i4t1smr2uv82v41ybp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 
