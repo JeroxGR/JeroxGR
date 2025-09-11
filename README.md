@@ -8,7 +8,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-grich/">
-  <img align="left" alt="Jerox's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jerox's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />
+</a>
+
+<a href="https://www.fiverr.com/jeroxgr/">
+  <img align="left" alt="Jerox's LinkedIN" width="22px" src="https://miro.medium.com/v2/resize:fit:1000/1*Xa26ULIpZTTP1hN_ReUXVQ.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jeroxgr)
