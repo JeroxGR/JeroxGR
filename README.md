@@ -1,10 +1,10 @@
 ### Hey Peeps!
-<a href="https://www.instagram.com/_med.grich_/">
+<a href="https://www.instagram.com/__med.grich__/">
   <img align="left" alt="Jerox's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 <a href="https://twitter.com/JRX_GR">
-  <img align="left" alt="AJeroxGR | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="AJeroxGR | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1024px-Logo_of_Twitter.svg.png?20220821125553" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-grich/">
