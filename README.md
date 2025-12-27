@@ -30,12 +30,6 @@ Hi, I'm Mohamed Grich, a passionate AI and Data Science engineering student and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeroxgr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-------
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JeroxGr&theme=vue-dark&border_radius=5)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeroxgr&show_icons=true&theme=gotham" alt="JeroxGR" />
 
 ------
 
